@@ -1,0 +1,9 @@
+# LangGraph & LangChain (notebooks/learning)
+langgraph
+langchain-core
+langchain-openai
+
+# Run Jupyter notebooks locally
+jupyter
+
+load_dotenv
